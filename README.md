@@ -1,0 +1,2 @@
+# 2019AzureBlobLocalOnly
+2019AzureBlobLocalOnly
