@@ -248,3 +248,5 @@ BarcodeString varchar(128),
 
 3. You'll need to sign up for Cognitive Services and attach your keys here [Custom Vision 1](https://github.com/andrewchungxam/2019AzureBlobLocalOnly/blob/master/AzureBlobStorageSampleApp/Services/CustomVisionService.cs#L17) and  [Custom Vision 2](https://github.com/andrewchungxam/2019AzureBlobLocalOnly/blob/master/AzureBlobStorageSampleApp/Services/CustomVisionService.cs#L18) and here [Computer Vision 1](https://github.com/andrewchungxam/2019AzureBlobLocalOnly/blob/master/AzureBlobStorageSampleApp/Services/ComputerVisionService.cs#L8).
 - To get these tags, you'll need to sign up for the services via these tutorials [here](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/csharp-tutorial) and [here](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/vision-api-how-to-topics/howtosubscribe) (Please note that I've used EastUS as location as you can see in the code, but this can be changed.).
+
+
