@@ -4,6 +4,8 @@ https://gfycat.com/GreedyEasyHammerkop
 
 ![Desktop](https://gfycat.com/ifr/LoathsomeSpryGerenuk)
 
+<iframe src='https://gfycat.com/ifr/LoathsomeSpryGerenuk' frameborder='0' scrolling='no' width='640' height='346' allowfullscreen></iframe>
+
 
 Build and tested for Xamarin.iOS.  Builds upon work by Xamarin and Azure evanglist Brandon Minnick.
 
