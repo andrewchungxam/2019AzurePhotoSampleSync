@@ -1,5 +1,8 @@
 # 2019AzureBlobLocalOnly
 
+https://gfycat.com/GreedyEasyHammerkop
+
+
 Build and tested for Xamarin.iOS.  Builds upon work by Xamarin and Azure evanglist Brandon Minnick.
 
 This Xamarin app uses a [SQLite Database](https://github.com/praeclarum/sqlite-net) to save the metadata of the Photos (e.g. Url, Title) locally. The local database syncs, via an [Azure Function](https://aka.ms/XamarinBlog/AzureFunctions), with an [Azure SQL Database](https://aka.ms/XamarinBlog/AzureSQL) that contains the metadata of the Photos stored in [Azure Blob Storage](https://aka.ms/xamarinblog/azureblobstorage).
