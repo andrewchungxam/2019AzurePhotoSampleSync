@@ -2,11 +2,7 @@
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-https://www.youtube.com/watch?v=Gfza7uzxmlU
-
 [![Mobile](https://img.youtube.com/vi/Gfza7uzxmlU/0.jpg)](https://www.youtube.com/watch?v=Gfza7uzxmlU "Mobile")
-
-https://www.youtube.com/watch?v=QFexSXmQu-A
 
 [![Desktop](https://img.youtube.com/vi/QFexSXmQu-A/0.jpg)](https://www.youtube.com/watch?v=QFexSXmQu-A "Desktop")
 
