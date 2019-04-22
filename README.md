@@ -1,14 +1,8 @@
 # 2019AzureBlobLocalOnly
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-[![Desktop](https://img.youtube.com/vi/QFexSXmQu-A/0.jpg)](https://www.youtube.com/watch?v=QFexSXmQu-A "Desktop")
-
-
 [![Mobile](https://user-images.githubusercontent.com/3628580/56506696-4b029d00-64ed-11e9-8bce-dcd7b9c627dc.png)](https://www.youtube.com/watch?v=Gfza7uzxmlU "Mobile")
 
 [![Desktop](https://user-images.githubusercontent.com/3628580/56506643-24dcfd00-64ed-11e9-9524-428bff26ce6a.png)](https://www.youtube.com/watch?v=QFexSXmQu-A "Desktop")
-
-
 
 Build and tested for Xamarin.iOS.  Builds upon work by Xamarin and Azure evanglist Brandon Minnick.
 
