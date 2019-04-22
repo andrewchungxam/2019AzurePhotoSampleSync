@@ -1,9 +1,5 @@
 # 2019AzureBlobLocalOnly
 
-[![Mobile](https://user-images.githubusercontent.com/3628580/56506696-4b029d00-64ed-11e9-8bce-dcd7b9c627dc.png)](https://www.youtube.com/watch?v=Gfza7uzxmlU "Mobile")
-
-[![Desktop](https://user-images.githubusercontent.com/3628580/56506643-24dcfd00-64ed-11e9-9524-428bff26ce6a.png)](https://www.youtube.com/watch?v=QFexSXmQu-A "Desktop")
-
 Build and tested for Xamarin.iOS.  Builds upon work by Xamarin and Azure evanglist Brandon Minnick.
 
 This Xamarin app uses a [SQLite Database](https://github.com/praeclarum/sqlite-net) to save the metadata of the Photos (e.g. Url, Title) locally. The local database syncs, via an [Azure Function](https://aka.ms/XamarinBlog/AzureFunctions), with an [Azure SQL Database](https://aka.ms/XamarinBlog/AzureSQL) that contains the metadata of the Photos stored in [Azure Blob Storage](https://aka.ms/xamarinblog/azureblobstorage).
@@ -15,6 +11,10 @@ This app is extended by using Microsoft's AI software to analyze the photos both
 Also, app has been architected to use a MasterDetail control; menu items show photos grouped together by location, date, and whether or not it has captured barcode information.  
 
 This sample shows examples of using Customer Rendererers and Effects to extend Xamarin.Forms's controls.
+
+[![Mobile](https://user-images.githubusercontent.com/3628580/56506696-4b029d00-64ed-11e9-8bce-dcd7b9c627dc.png)](https://www.youtube.com/watch?v=Gfza7uzxmlU "Mobile")
+
+[![Desktop](https://user-images.githubusercontent.com/3628580/56506643-24dcfd00-64ed-11e9-9524-428bff26ce6a.png)](https://www.youtube.com/watch?v=QFexSXmQu-A "Desktop")
 
 ## Learn More
 - [The Xamarin Show: Azure Blob Storage for Mobile](https://channel9.msdn.com/Shows/XamarinShow/Azure-Blob-Storage-for-Mobile-with-Brandon-Minnick/?WT.mc_id=none-github-bramin)
