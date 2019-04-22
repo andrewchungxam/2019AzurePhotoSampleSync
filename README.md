@@ -1,11 +1,6 @@
 # 2019AzureBlobLocalOnly
 
-https://gfycat.com/GreedyEasyHammerkop
-
-![Desktop](https://gfycat.com/ifr/LoathsomeSpryGerenuk)
-
-<iframe src='https://gfycat.com/ifr/LoathsomeSpryGerenuk' frameborder='0' scrolling='no' width='640' height='346' allowfullscreen></iframe>
-
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 Build and tested for Xamarin.iOS.  Builds upon work by Xamarin and Azure evanglist Brandon Minnick.
 
