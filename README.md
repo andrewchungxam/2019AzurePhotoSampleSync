@@ -1,4 +1,4 @@
-# 2019AzureBlobLocalOnly
+# 2019Azure Photo Sample Sync 
 
 Build and tested for Xamarin.iOS.  Builds upon work by Xamarin and Azure evanglist Brandon Minnick.
 
